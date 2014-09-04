@@ -1,0 +1,8 @@
+[user]
+        name = jos
+        email = jos@example.com
+[color]
+        ui = true
+[push]
+        default = simple
+
