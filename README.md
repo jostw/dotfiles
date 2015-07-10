@@ -1,9 +1,8 @@
-dotfiles
-========
+# dotfiles
 
 Preferred dotfiles.
 
-## What's included?
+## Overview
 
 ### System
 
